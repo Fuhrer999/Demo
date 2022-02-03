@@ -1,3 +1,3 @@
-# Demo
+# Calculator using Python.
 
-Some Description.!!!
+Terminal calculator.
